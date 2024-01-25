@@ -1,1 +1,2 @@
-# bsc_thesis_data_analysis
+# BSc thesis project data analysis
+This is a Jupyter Notebook file used in my bachelor's thesis project. With it, the acquired data from the embedded device were proccessed. Various manipulations were done to the raw data such as value standardization for example, but the main focus of the code and the main purpose of the project was the latter part, namely the Machine Learning. Various ML algorithms were used such as KNN, SVM, and others, in order to see which one would get the highest accuracy.
